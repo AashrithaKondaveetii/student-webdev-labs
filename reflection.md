@@ -10,6 +10,4 @@ The exercises boosted my confidence in creating webpages. I particularly appreci
 
 Enter your reflections on this section here.
 
-I have used proper semantic elements like <label>, <fieldset> were utilized to improve form accessibility by enhancing the structure and clarity of content. Input fields were clearly labeled with placeholders which helps user interaction and understanding.  Each HTML task is tested with WAVE AIM tool to identify and correct accessibility issues in web content. This ensured that the web pages are accessible to individuals.  All HTML and CSS code are validated using the W3C Markup Validation and W3C CSS Validation Services. These practices reflect a thorough approach to building accessible web content, emphasizing the importance of accessibility in web design and development
-
-
+I have used proper semantic elements like <label>, <fieldset> were utilized to improve form accessibility by enhancing the structure and clarity of content. Input fields were clearly labeled with placeholders which helps user interaction and understanding.  Each HTML task is tested with WAVE AIM tool to identify and correct accessibility issues in web content. This ensured that the web pages are accessible to individuals.  All HTML and CSS code are validated using the W3C Markup Validation and W3C CSS Validation Services. 
